@@ -64,7 +64,7 @@
 
 ### Дополнительные материалы
 *   **[Towards Data Science](https://towardsdatascience.com/)** — статьи и туториалы на Medium
-*   **[Архив Учебных Дамплетов по Python](https://academy.yandex.ru/dumps)** — от Академии Яндекса
+*   **[Основы Python](https://education.yandex.ru/handbook/python?ysclid=ml1wsgs7g9582608025)** — от Академии Яндекса
 *   **[CFD Python](https://github.com/barbagroup/CFDPython)** — 12 шагов к Navier-Stokes на Python (для контекста)
 
 ## ✅ Критерии получения зачета
