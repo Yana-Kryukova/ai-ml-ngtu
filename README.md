@@ -46,7 +46,7 @@
 
 ### Онлайн-курсы и платформы
 *   **[Stepik: "Введение в Data Science и машинное обучение"](https://stepik.org/course/4852)** — отличный бесплатный курс на русском для начинающих
-*   **[Coursera: "Машинное обучение и анализ данных" от МФТИ](https://www.coursera.org/specializations/machine-learning-data-analysis)** — фундаментальная специализация
+*   **[Coursera: "Машинное обучение и анализ данных" от МФТИ](https://www.coursera.org/specializations/machine-learning-data-analysis)** или **[Репозиторий Специализация "Машинное обучение и анализ данных" от МФТИ и Яндекса на Coursera](https://github.com/minhdai2410/machine-learning-data-analysis-yandex-mipt-coursera?ysclid=ml1wib5zc5189616397)**— фундаментальная специализация
 *   **[Kaggle Learn](https://www.kaggle.com/learn)** — практические микро-курсы по конкретным темам
 *   **[Google Colab Tutorials](https://colab.research.google.com/notebooks/intro.ipynb)** — официальное введение в Colab
 
@@ -64,7 +64,7 @@
 
 ### Дополнительные материалы
 *   **[Towards Data Science](https://towardsdatascience.com/)** — статьи и туториалы на Medium
-*   **[Архив Учебных Дамплетов по Python](https://academy.yandex.ru/dumps)** — от Академии Яндекса
+*   **[Основы Python](https://education.yandex.ru/handbook/python?ysclid=ml1wsgs7g9582608025)** — от Академии Яндекса
 *   **[CFD Python](https://github.com/barbagroup/CFDPython)** — 12 шагов к Navier-Stokes на Python (для контекста)
 
 ## ✅ Критерии получения зачета
